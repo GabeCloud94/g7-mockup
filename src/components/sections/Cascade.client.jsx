@@ -8,7 +8,7 @@ export function Cascade() {
     <Suspense fallback="Loading...">
       <div className="py-8 bg-white h-screen w-full flex flex-col justify-evenly">
         <div className="w-full h-1/2 flex bg-white">
-          <div className="bg-[url('../assets/images/Cascade1.jpg')] bg-cover bg-center w-1/2 bg-no-repeat" />
+          <div className="bg-[url('../assets/images/Cascade1.jpg')] bg-cover bg-top w-1/2 bg-no-repeat" />
           <div className="flex flex-col items-center justify-center w-1/2">
             <Image
               alt="Image of collection Copper on Fire"
@@ -45,7 +45,7 @@ export function Cascade() {
               </button>
             </Link>
           </div>
-          <div className="bg-[url('../assets/images/Cascade2.jpg')] bg-cover bg-center w-1/2 bg-no-repeat" />
+          <div className="bg-[url('../assets/images/Cascade2.jpg')] bg-cover bg-right-top w-1/2 bg-no-repeat" />
         </div>
       </div>
     </Suspense>
