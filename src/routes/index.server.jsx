@@ -22,12 +22,11 @@ import {
   useShopQuery,
 } from '@shopify/hydrogen';
 
-import {Swimlane} from '../components/index';
-
 import {
   Hero,
   Layout,
   SubHero,
+  Swimlane,
   Cascade,
   PictureSplit,
   Faq,

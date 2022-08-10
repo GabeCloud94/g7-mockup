@@ -21,12 +21,12 @@ export function Cascade() {
     <Suspense fallback="Loading...">
       <div className="py-8 bg-white h-screen w-full flex flex-col justify-evenly">
         <div className="w-full h-1/2 flex bg-white">
-          <div className="bg-[url('../assets/images/cascade1.jpeg')] bg-cover w-full no-repeat" />
+          <div className="bg-[url('../assets/images/cascade1.jpg')] bg-cover w-full no-repeat" />
           <CollectionCard collection={Collection1} />
         </div>
         <div className="w-full h-1/2 flex bg-white">
           <CollectionCard collection={Collection2} />
-          <div className="bg-[url('../assets/images/cascade2.jpeg')] bg-cover w-full no-repeat" />
+          <div className="bg-[url('../assets/images/cascade2.jpg')] bg-cover w-full no-repeat" />
         </div>
       </div>
     </Suspense>
