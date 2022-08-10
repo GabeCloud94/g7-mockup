@@ -5,7 +5,7 @@ export function ShippingSection() {
     <Suspense fallback="Loading...">
       <div className="py-8 bg-white h-screen w-full flex flex-col justify-evenly">
         <div className="w-full h-1/2 flex bg-white">
-          <div className="bg-[url('../assets/images/shipping.jpg')] bg-cover w-full no-repeat" />
+          <div className="bg-[url('../assets/images/shipping.jpg')] bg-cover bg-center w-full bg-no-repeat" />
           <div className="w-full bg-white flex-col flex justify-center items-center">
             <div className="text-left">
               <h1 className="text-7xl tracking-widest font-optima font-thin">
