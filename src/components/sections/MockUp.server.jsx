@@ -4,7 +4,7 @@ import {Suspense} from 'react';
 export function MockUp() {
   return (
     <Suspense>
-      <div className="bg-[url(../assets/images/mock-it-up.png)] bg-auto bg-no-repeat bg-[#B5A296] bg-center h-full w-full p-10 pb-44">
+      <div className="bg-[url(../assets/images/mock-it-up.webp)] bg-auto bg-no-repeat bg-[#B5A296] bg-center h-full w-full p-10 pb-44">
         <h1 className="text-white font-thin text-8xl tracking-wider pb-4 font-optima">
           WILL IT LOOK GOOD IN MY SPACE?
         </h1>
