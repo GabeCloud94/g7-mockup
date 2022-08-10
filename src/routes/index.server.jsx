@@ -9,11 +9,9 @@ import {
   useShopQuery,
 } from '@shopify/hydrogen';
 
-import {} from '~/components/index';
+import {Products1, Products2} from '~/components/index';
 
 import {
-  Products1,
-  Products2,
   Hero,
   Layout,
   SubHero,
