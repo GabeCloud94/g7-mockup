@@ -1,4 +1,4 @@
-import {Swimlane} from './Swimlane.server';
+import {Swimlane} from './Swimlane.client';
 import Product1 from '../../assets/images/product1.webp';
 import Product2 from '../../assets/images/product2.webp';
 import Product3 from '../../assets/images/product3.webp';

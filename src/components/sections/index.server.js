@@ -7,6 +7,5 @@ export {Faq} from './Faq.server';
 export {ShippingSection} from './ShippingSection.server';
 export {CallToAction} from './CallToAction.server';
 export {ProductSwimlane} from './ProductSwimlane.server';
-export {Swimlane} from './Swimlane.server';
 export {Products1} from './Products1.server';
 export {Products2} from './Products2.server';
