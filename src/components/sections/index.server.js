@@ -7,3 +7,4 @@ export {PictureSplit} from './PictureSplit.server';
 export {Faq} from './Faq.server';
 export {ShippingSection} from './ShippingSection.server';
 export {CallToAction} from './CallToAction.server';
+export {ProductSwimlane} from './ProductSwimlane.server';
