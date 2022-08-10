@@ -2,7 +2,8 @@ import {Suspense} from 'react';
 import {useShopQuery, useLocalization, gql, Seo} from '@shopify/hydrogen';
 
 import {PageHeader, Section, Grid} from '~/components';
-import {Layout, CollectionCard} from '~/components/index.server';
+import {CollectionCard} from '~/components/index';
+import {Layout} from '~/components/index.server';
 import {getImageLoadingPriority, PAGINATION_SIZE} from '~/lib/const';
 
 export default function Collections() {
