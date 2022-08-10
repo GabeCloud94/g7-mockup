@@ -1,6 +1,5 @@
 export {Hero} from './Hero.server';
 export {SubHero} from './SubHero.server';
-export {Swimlane} from './Swimlane.server';
 export {Cascade} from './Cascade.server';
 export {MockUp} from './MockUp.server';
 export {PictureSplit} from './PictureSplit.server';
