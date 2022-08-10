@@ -1,4 +1,3 @@
-export {Hero} from './Hero.server';
 export {SubHero} from './SubHero.server';
 export {MockUp} from './MockUp.server';
 export {PictureSplit} from './PictureSplit.server';
