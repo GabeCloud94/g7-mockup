@@ -1,10 +1,10 @@
 import {Swimlane} from './Swimlane.server';
-import Product1 from '../../assets/images/product1.png';
-import Product2 from '../../assets/images/product2.png';
-import Product3 from '../../assets/images/product3.png';
-import Product4 from '../../assets/images/product4.png';
-import Product5 from '../../assets/images/product5.png';
-import Product6 from '../../assets/images/product6.jpg';
+import Product1 from '../../assets/images/product1.webp';
+import Product2 from '../../assets/images/product2.webp';
+import Product3 from '../../assets/images/product3.webp';
+import Product4 from '../../assets/images/product4.webp';
+import Product5 from '../../assets/images/product5.webp';
+import Product6 from '../../assets/images/product6.webp';
 
 export function Products1() {
   const products = [

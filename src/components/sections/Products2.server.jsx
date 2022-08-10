@@ -1,9 +1,9 @@
-import Product7 from '../../assets/images/product7.png';
-import Product8 from '../../assets/images/product8.png';
-import Product9 from '../../assets/images/product9.png';
-import Product10 from '../../assets/images/product10.png';
-import Product11 from '../../assets/images/product11.png';
-import Product12 from '../../assets/images/product12.png';
+import Product7 from '../../assets/images/product7.webp';
+import Product8 from '../../assets/images/product8.webp';
+import Product9 from '../../assets/images/product9.webp';
+import Product10 from '../../assets/images/product10.webp';
+import Product11 from '../../assets/images/product11.webp';
+import Product12 from '../../assets/images/product12.webp';
 import {Swimlane} from './Swimlane.server';
 
 export function Products2() {
