@@ -17,7 +17,7 @@ module.exports = {
       colors: {
         primary: 'var(--color-primary)',
         contrast: 'var(--color-contrast)',
-        accent: 'var(--color-contrast)',
+        accent: 'var(--color-accent)',
         notice: 'var(--color-accent)',
         shopPay: 'var(--color-shop-pay)',
       },
